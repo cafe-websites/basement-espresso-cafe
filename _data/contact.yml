@@ -1,0 +1,14 @@
+location:
+  address: 182/184 Victoria Parade, East Melbourne VIC 3002
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.1993908043223!2d144.9779113!3d-37.8087984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642c3582cdc3f%3A0xd4a0b6bde65548a2!2sBasement%20Espresso%20Cafe!5e0!3m2!1sen!2sau!4v1664530841009!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/Basement-Espresso-157250984347892/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:(+xx) xxxxxxxxx
